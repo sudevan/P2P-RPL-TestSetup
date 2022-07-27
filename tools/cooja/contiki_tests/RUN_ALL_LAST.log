@@ -1,0 +1,154 @@
+[2022-07-04 12:38:58] Building COOJA: OK
+
+[2022-07-04 12:39:01] core-sim-10-nodes: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-10-nodes.info) --
+-- TEST OUTPUT (tail core-sim-10-nodes.log) --
+8219527 : 5 : Initiated ping  from 5 to 6
+8228570 : 5 : Ping send time
+8228570 : 5 : Starting ping timeout timer
+9228570 : 5 : Ping time out from 5 to 6
+12228570 : 5 : Initiated ping  from 6 to 4
+-- COOJA OUTPUT (tail core-sim-10-nodes.cooja_log) --
+[12:39:03 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[12:39:03 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[12:39:03 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.SimControl
+[12:39:03 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Visualizer
+[12:39:03 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.LogListener
+[12:39:03 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.TimeLine
+[12:39:03 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.RadioLogger
+[12:39:03 - main] [LogScriptEngine.java:263] [INFO] - No timeout defined, using default (us): 1200000000
+[12:39:03 - main] [ScriptRunner.java:333] [INFO] - Test script activated
+[12:39:03 - Thread-3] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1656917643564
+
+
+[2022-07-04 12:39:06] core-sim-20-nodes: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-20-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (core-sim-20-nodes.log) --
+-- COOJA OUTPUT (tail core-sim-20-nodes.cooja_log) --
+[12:39:07 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[12:39:07 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[12:39:07 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:39:07 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[12:39:07 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+[12:39:07 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+
+
+[2022-07-04 12:39:07] core-sim-30-nodes: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-30-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (core-sim-30-nodes.log) --
+-- COOJA OUTPUT (tail core-sim-30-nodes.cooja_log) --
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3234)
+	... 3 more
+Caused by: se.sics.cooja.MoteType$MoteTypeCreationException: Bad return value
+	at se.sics.cooja.dialogs.CompileContiki.compile(CompileContiki.java:260)
+	at se.sics.cooja.dialogs.CompileContiki.compile(CompileContiki.java:91)
+	at se.sics.cooja.mspmote.SkyMoteType.configureAndInit(SkyMoteType.java:151)
+	... 6 more
+Caused by: se.sics.cooja.MoteType$MoteTypeCreationException: 
+	at se.sics.cooja.dialogs.CompileContiki$3.run(CompileContiki.java:209)
+	at java.lang.Thread.run(Thread.java:619)
+
+
+[2022-07-04 12:39:08] core-sim-40-script: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-40-script.info) --
+-- NO TEST OUTPUT AVAILABLE (core-sim-40-script.log) --
+-- COOJA OUTPUT (tail core-sim-40-script.cooja_log) --
+[12:39:09 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[12:39:09 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[12:39:09 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:39:09 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[12:39:09 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+
+
+[2022-07-04 12:39:09] core-sim-50-script: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-50-script.info) --
+-- NO TEST OUTPUT AVAILABLE (core-sim-50-script.log) --
+-- COOJA OUTPUT (tail core-sim-50-script.cooja_log) --
+
+
+[2022-07-04 12:39:09] core-sim-5-nodes: FAIL
+-- NO TEST INFO AVAILABLE (core-sim-5-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (core-sim-5-nodes.log) --
+-- COOJA OUTPUT (tail core-sim-5-nodes.cooja_log) --
+[12:39:10 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:10] p2p-measure-sim-10-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-10-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-10-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-10-nodes.cooja_log) --
+
+
+[2022-07-04 12:39:10] p2p-measure-sim-20-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-20-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-20-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-20-nodes.cooja_log) --
+[12:39:10 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:10] p2p-measure-sim-30-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-30-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-30-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-30-nodes.cooja_log) --
+[12:39:10 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:10] p2p-measure-sim-40-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-40-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-40-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-40-nodes.cooja_log) --
+
+
+[2022-07-04 12:39:11] p2p-measure-sim-50-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-50-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-50-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-50-nodes.cooja_log) --
+[12:39:11 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:11] p2p-measure-sim-5-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-measure-sim-5-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-measure-sim-5-nodes.log) --
+-- COOJA OUTPUT (tail p2p-measure-sim-5-nodes.cooja_log) --
+[12:39:11 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:11] p2p-sim-10-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-10-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-10-nodes.log) --
+-- COOJA OUTPUT (tail p2p-sim-10-nodes.cooja_log) --
+
+
+[2022-07-04 12:39:11] p2p-sim-20-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-20-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-20-nodes.log) --
+-- COOJA OUTPUT (tail p2p-sim-20-nodes.cooja_log) --
+[12:39:11 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:11] p2p-sim-30-script: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-30-script.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-30-script.log) --
+-- COOJA OUTPUT (tail p2p-sim-30-script.cooja_log) --
+
+
+[2022-07-04 12:39:12] p2p-sim-40-script: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-40-script.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-40-script.log) --
+-- COOJA OUTPUT (tail p2p-sim-40-script.cooja_log) --
+[12:39:12 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:12] p2p-sim-50-script: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-50-script.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-50-script.log) --
+-- COOJA OUTPUT (tail p2p-sim-50-script.cooja_log) --
+[12:39:12 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+
+
+[2022-07-04 12:39:12] p2p-sim-5-nodes: FAIL
+-- NO TEST INFO AVAILABLE (p2p-sim-5-nodes.info) --
+-- NO TEST OUTPUT AVAILABLE (p2p-sim-5-nodes.log) --
+-- COOJA OUTPUT (tail p2p-sim-5-nodes.cooja_log) --
+
+

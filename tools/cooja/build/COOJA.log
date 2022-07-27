@@ -1,0 +1,73 @@
+[18:43:58 - AWT-EventQueue-0] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[18:43:58 - AWT-EventQueue-0] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[18:46:24 - Thread-2] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[18:46:24 - Thread-2] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+[18:46:25 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:25 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:25 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:25 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:26 - Thread-2] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[18:46:27 - Thread-2] [LogScriptEngine.java:263] [INFO] - No timeout defined, using default (us): 1200000000
+[18:46:27 - Thread-2] [ScriptRunner.java:333] [INFO] - Test script activated
+[18:46:33 - Thread-3] [LogScriptEngine.java:326] [INFO] - Test script finished
+[18:46:33 - AWT-EventQueue-0] [ScriptRunner.java:372] [INFO] - Test script deactivated
+[18:47:32 - AWT-EventQueue-0] [LogScriptEngine.java:263] [INFO] - No timeout defined, using default (us): 1200000000
+[18:47:32 - AWT-EventQueue-0] [ScriptRunner.java:333] [INFO] - Test script activated
+[18:47:35 - Thread-5] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1657285355465
+[18:48:08 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 5%
+[18:48:08 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 5%
+[18:48:33 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 10%
+[18:48:33 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 10%
+[18:48:59 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 15%
+[18:48:59 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 15%
+[18:49:17 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 20%
+[18:49:17 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 20%
+[18:49:36 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 25%
+[18:49:36 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 25%
+[18:50:01 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 30%
+[18:50:01 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 30%
+[18:50:26 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 35%
+[18:50:26 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 35%
+[18:50:48 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 40%
+[18:50:48 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 40%
+[18:51:08 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 45%
+[18:51:08 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 45%
+[18:51:30 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 50%
+[18:51:30 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 50%
+[18:51:55 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 55%
+[18:51:55 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 55%
+[18:52:20 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 60%
+[18:52:20 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 60%
+[18:52:45 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 65%
+[18:52:45 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 65%
+[18:53:03 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 70%
+[18:53:03 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 70%
+[18:53:25 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 75%
+[18:53:25 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 75%
+[18:53:52 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 80%
+[18:53:52 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 80%
+[18:54:13 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 85%
+[18:54:13 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 85%
+[18:54:46 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 90%
+[18:54:46 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 90%
+[18:55:10 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 95%
+[18:55:10 - Thread-5] [LogScriptEngine.java:276] [INFO] - Test script at 95%
+[18:55:36 - Thread-5] [LogScriptEngine.java:449] [INFO] - Timeout event @ 1200000000
+[18:55:36 - Thread-4] [LogScriptEngine.java:326] [INFO] - Test script finished
+[18:55:36 - Thread-5] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1657285836066	Duration: 480601 ms	Simulated time 1200000 ms	Ratio 2.49687370604722
+[19:11:54 - AWT-EventQueue-0] [ScriptRunner.java:372] [INFO] - Test script deactivated

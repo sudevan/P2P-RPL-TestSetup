@@ -1,0 +1,5 @@
+[12:39:09 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[12:39:09 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[12:39:09 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:39:09 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[12:39:09 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 

@@ -1,0 +1,13 @@
+[12:39:57 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[12:39:57 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[12:39:57 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:39:57 - main] [GUI.java:1211] [FATAL] - Exception when loading simulation: 
+se.sics.cooja.GUI$SimulationCreationException: Load simulation error
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3168)
+	at se.sics.cooja.GUI.quickStartSimulationConfig(GUI.java:1204)
+	at se.sics.cooja.GUI.main(GUI.java:3051)
+Caused by: java.io.FileNotFoundException: core-sim-5-nodes.csc.csc (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:106)
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3156)
+	... 2 more

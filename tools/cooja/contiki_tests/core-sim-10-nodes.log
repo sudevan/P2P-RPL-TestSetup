@@ -1,0 +1,21 @@
+Random seed: 123456
+1: Mote  OK
+2: Mote  OK
+3: Mote  OK
+4: Mote  OK
+5: Mote  OK
+6: Mote  OK
+7: Mote  OK
+8: Mote  OK
+9: Mote  OK
+10: Mote  OK
+Waiting for 3 seconds
+4210432 : 3 : Initiated ping  from 5 to 7
+4219527 : 5 : Ping send time
+4219527 : 5 : Starting ping timeout timer
+5219527 : 5 : Ping time out from 5 to 7
+8219527 : 5 : Initiated ping  from 5 to 6
+8228570 : 5 : Ping send time
+8228570 : 5 : Starting ping timeout timer
+9228570 : 5 : Ping time out from 5 to 6
+12228570 : 5 : Initiated ping  from 6 to 4

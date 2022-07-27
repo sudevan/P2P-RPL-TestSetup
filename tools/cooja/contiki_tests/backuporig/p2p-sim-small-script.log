@@ -1,0 +1,568 @@
+Random seed: 123456
+1: Mote  OK
+2: Mote  OK
+3: Mote  OK
+4: Mote  OK
+5: Mote  OK
+Waiting for 3 seconds
+4210373 : 3 : Initiated p2p route discovery from 3 to 5
+17396587 : 3 : Success - p2p route discoverd to from 3 to 5
+17396587 : 3 : Initiated - ping  from 3 to 5
+17413931 : 3 : Ping send time
+17413931 : 3 : Starting ping timeout timer
+17439709 : 5 : Received ping 1 from 3
+17439709 : 5 : Paket delay from 3 to 5 is 25778
+17439709 : 5 : Starting continue timer
+18439709 : 5 : Initiated p2p route discovery from 2 to 3
+21609208 : 2 : Success - p2p route discoverd to from 2 to 3
+21609208 : 2 : Initiated - ping  from 2 to 3
+21626552 : 2 : Ping send time
+21626552 : 2 : Starting ping timeout timer
+21652336 : 3 : Received ping 1 from 2
+21652336 : 3 : Paket delay from 2 to 3 is 25784
+21652336 : 3 : Starting continue timer
+22652336 : 3 : Initiated p2p route discovery from 3 to 2
+25828762 : 3 : Success - p2p route discoverd to from 3 to 2
+25828762 : 3 : Initiated - ping  from 3 to 2
+25846054 : 3 : Ping send time
+25846054 : 3 : Starting ping timeout timer
+25872339 : 2 : Received ping 2 from 3
+25872339 : 2 : Paket delay from 3 to 2 is 26285
+25872339 : 2 : Starting continue timer
+26872339 : 2 : Initiated p2p route discovery from 2 to 3
+86881901 : 2 : Failed - p2p route discovery from 2 to 3
+86881901 : 2 : Starting continue timer
+87881901 : 2 : Initiated p2p route discovery from 5 to 4
+90985117 : 5 : Success - p2p route discoverd to from 5 to 4
+90985117 : 5 : Initiated - ping  from 5 to 4
+91001784 : 5 : Ping send time
+91001784 : 5 : Starting ping timeout timer
+91020589 : 4 : Received ping 1 from 5
+91020589 : 4 : Paket delay from 5 to 4 is 18805
+91020589 : 4 : Starting continue timer
+92020589 : 4 : Initiated p2p route discovery from 4 to 5
+95133280 : 4 : Success - p2p route discoverd to from 4 to 5
+95133280 : 4 : Initiated - ping  from 4 to 5
+95150305 : 4 : Ping send time
+95150305 : 4 : Starting ping timeout timer
+95164035 : 5 : Received ping 1 from 4
+95164035 : 5 : Paket delay from 4 to 5 is 13730
+95164035 : 5 : Starting continue timer
+96164035 : 5 : Initiated p2p route discovery from 5 to 4
+99258618 : 5 : Success - p2p route discoverd to from 5 to 4
+99258618 : 5 : Initiated - ping  from 5 to 4
+99275596 : 5 : Ping send time
+99275596 : 5 : Starting ping timeout timer
+99289365 : 4 : Received ping 2 from 5
+99289365 : 4 : Paket delay from 5 to 4 is 13769
+99289365 : 4 : Starting continue timer
+100289365 : 4 : Initiated p2p route discovery from 2 to 1
+103401848 : 2 : Success - p2p route discoverd to from 2 to 1
+103401848 : 2 : Initiated - ping  from 2 to 1
+103418342 : 2 : Ping send time
+103418342 : 2 : Starting ping timeout timer
+103432140 : 1 : Received ping 2 from 2
+103432140 : 1 : Paket delay from 2 to 1 is 13798
+103432140 : 1 : Starting continue timer
+104432140 : 1 : Initiated p2p route discovery from 2 to 4
+164444401 : 2 : Failed - p2p route discovery from 2 to 4
+164444401 : 2 : Starting continue timer
+165444401 : 2 : Initiated p2p route discovery from 1 to 3
+168544331 : 1 : Success - p2p route discoverd to from 1 to 3
+168544331 : 1 : Initiated - ping  from 1 to 3
+168560982 : 1 : Ping send time
+168560982 : 1 : Starting ping timeout timer
+168574953 : 3 : Received ping 1 from 1
+168574953 : 3 : Paket delay from 1 to 3 is 13971
+168574953 : 3 : Starting continue timer
+169574953 : 3 : Initiated p2p route discovery from 1 to 2
+172677738 : 1 : Success - p2p route discoverd to from 1 to 2
+172677738 : 1 : Initiated - ping  from 1 to 2
+172699113 : 1 : Ping send time
+172699113 : 1 : Starting ping timeout timer
+172713317 : 2 : Received ping 2 from 1
+172713317 : 2 : Paket delay from 1 to 2 is 14204
+172713317 : 2 : Starting continue timer
+173713317 : 2 : Initiated p2p route discovery from 2 to 4
+176990186 : 2 : Success - p2p route discoverd to from 2 to 4
+176990186 : 2 : Initiated - ping  from 2 to 4
+177007106 : 2 : Ping send time
+177007106 : 2 : Starting ping timeout timer
+177044874 : 4 : Received ping 3 from 2
+177044874 : 4 : Paket delay from 2 to 4 is 37768
+177044874 : 4 : Starting continue timer
+178044874 : 4 : Initiated p2p route discovery from 5 to 2
+238056205 : 5 : Failed - p2p route discovery from 5 to 2
+238056205 : 5 : Starting continue timer
+239056205 : 5 : Initiated p2p route discovery from 2 to 1
+242175339 : 2 : Success - p2p route discoverd to from 2 to 1
+242175339 : 2 : Initiated - ping  from 2 to 1
+242191859 : 2 : Ping send time
+242191859 : 2 : Starting ping timeout timer
+242205747 : 1 : Received ping 4 from 2
+242205747 : 1 : Paket delay from 2 to 1 is 13888
+242205747 : 1 : Starting continue timer
+243205747 : 1 : Initiated p2p route discovery from 3 to 1
+246331685 : 3 : Success - p2p route discoverd to from 3 to 1
+246331685 : 3 : Initiated - ping  from 3 to 1
+246348957 : 3 : Ping send time
+246348957 : 3 : Starting ping timeout timer
+246362856 : 1 : Received ping 3 from 3
+246362856 : 1 : Paket delay from 3 to 1 is 13899
+246362856 : 1 : Starting continue timer
+247362856 : 1 : Initiated p2p route discovery from 5 to 3
+250554423 : 5 : Success - p2p route discoverd to from 5 to 3
+250554423 : 5 : Initiated - ping  from 5 to 3
+250571941 : 5 : Ping send time
+250571941 : 5 : Starting ping timeout timer
+250597703 : 3 : Received ping 3 from 5
+250597703 : 3 : Paket delay from 5 to 3 is 25762
+250597703 : 3 : Starting continue timer
+251597703 : 3 : Initiated p2p route discovery from 1 to 4
+254784930 : 1 : Success - p2p route discoverd to from 1 to 4
+254784930 : 1 : Initiated - ping  from 1 to 4
+254802000 : 1 : Ping send time
+254802000 : 1 : Starting ping timeout timer
+254827910 : 4 : Received ping 3 from 1
+254827910 : 4 : Paket delay from 1 to 4 is 25910
+254827910 : 4 : Starting continue timer
+255827910 : 4 : Initiated p2p route discovery from 1 to 4
+315840477 : 1 : Failed - p2p route discovery from 1 to 4
+315840477 : 1 : Starting continue timer
+316840477 : 1 : Initiated p2p route discovery from 4 to 1
+320013952 : 4 : Success - p2p route discoverd to from 4 to 1
+320013952 : 4 : Initiated - ping  from 4 to 1
+320031034 : 4 : Ping send time
+320031034 : 4 : Starting ping timeout timer
+320057013 : 1 : Received ping 2 from 4
+320057013 : 1 : Paket delay from 4 to 1 is 25979
+320057013 : 1 : Starting continue timer
+321057013 : 1 : Initiated p2p route discovery from 2 to 5
+324414680 : 2 : Success - p2p route discoverd to from 2 to 5
+324414680 : 2 : Initiated - ping  from 2 to 5
+324430779 : 2 : Ping send time
+324430779 : 2 : Starting ping timeout timer
+324477843 : 5 : Received ping 5 from 2
+324477843 : 5 : Paket delay from 2 to 5 is 47064
+324477843 : 5 : Starting continue timer
+325477843 : 5 : Initiated p2p route discovery from 4 to 3
+328585348 : 4 : Success - p2p route discoverd to from 4 to 3
+328585348 : 4 : Initiated - ping  from 4 to 3
+328601232 : 4 : Ping send time
+328601232 : 4 : Starting ping timeout timer
+328614792 : 3 : Received ping 3 from 4
+328614792 : 3 : Paket delay from 4 to 3 is 13560
+328614792 : 3 : Starting continue timer
+329614792 : 3 : Initiated p2p route discovery from 1 to 4
+389621712 : 1 : Failed - p2p route discovery from 1 to 4
+389621712 : 1 : Starting continue timer
+390621712 : 1 : Initiated p2p route discovery from 2 to 4
+393896411 : 2 : Success - p2p route discoverd to from 2 to 4
+393896411 : 2 : Initiated - ping  from 2 to 4
+393913801 : 2 : Ping send time
+393913801 : 2 : Starting ping timeout timer
+393951527 : 4 : Received ping 6 from 2
+393951527 : 4 : Paket delay from 2 to 4 is 37726
+393951527 : 4 : Starting continue timer
+394951527 : 4 : Initiated p2p route discovery from 1 to 2
+398060668 : 1 : Success - p2p route discoverd to from 1 to 2
+398060668 : 1 : Initiated - ping  from 1 to 2
+398077478 : 1 : Ping send time
+398077478 : 1 : Starting ping timeout timer
+398091810 : 2 : Received ping 4 from 1
+398091810 : 2 : Paket delay from 1 to 2 is 14332
+398091810 : 2 : Starting continue timer
+399091810 : 2 : Initiated p2p route discovery from 3 to 5
+402268556 : 3 : Success - p2p route discoverd to from 3 to 5
+402268556 : 3 : Initiated - ping  from 3 to 5
+402285668 : 3 : Ping send time
+402285668 : 3 : Starting ping timeout timer
+402311597 : 5 : Received ping 4 from 3
+402311597 : 5 : Paket delay from 3 to 5 is 25929
+402311597 : 5 : Starting continue timer
+403311597 : 5 : Initiated p2p route discovery from 1 to 3
+463324837 : 1 : Failed - p2p route discovery from 1 to 3
+463324837 : 1 : Starting continue timer
+464324837 : 1 : Initiated p2p route discovery from 2 to 4
+467583909 : 2 : Success - p2p route discoverd to from 2 to 4
+467583909 : 2 : Initiated - ping  from 2 to 4
+467601320 : 2 : Ping send time
+467601320 : 2 : Starting ping timeout timer
+467639044 : 4 : Received ping 7 from 2
+467639044 : 4 : Paket delay from 2 to 4 is 37724
+467639044 : 4 : Starting continue timer
+468639044 : 4 : Initiated p2p route discovery from 1 to 3
+471763092 : 1 : Success - p2p route discoverd to from 1 to 3
+471763092 : 1 : Initiated - ping  from 1 to 3
+471780360 : 1 : Ping send time
+471780360 : 1 : Starting ping timeout timer
+471794404 : 3 : Received ping 5 from 1
+471794404 : 3 : Paket delay from 1 to 3 is 14044
+471794404 : 3 : Starting continue timer
+472794404 : 3 : Initiated p2p route discovery from 1 to 3
+475903807 : 1 : Success - p2p route discoverd to from 1 to 3
+475903807 : 1 : Initiated - ping  from 1 to 3
+475920536 : 1 : Ping send time
+475920536 : 1 : Starting ping timeout timer
+475934574 : 3 : Received ping 6 from 1
+475934574 : 3 : Paket delay from 1 to 3 is 14038
+475934574 : 3 : Starting continue timer
+476934574 : 3 : Initiated p2p route discovery from 2 to 4
+536944401 : 2 : Failed - p2p route discovery from 2 to 4
+536944401 : 2 : Starting continue timer
+537944401 : 2 : Initiated p2p route discovery from 3 to 5
+541136079 : 3 : Success - p2p route discoverd to from 3 to 5
+541136079 : 3 : Initiated - ping  from 3 to 5
+541153159 : 3 : Ping send time
+541153159 : 3 : Starting ping timeout timer
+541178950 : 5 : Received ping 5 from 3
+541178950 : 5 : Paket delay from 3 to 5 is 25791
+541178950 : 5 : Starting continue timer
+542178950 : 5 : Initiated p2p route discovery from 2 to 1
+545277000 : 2 : Success - p2p route discoverd to from 2 to 1
+545277000 : 2 : Initiated - ping  from 2 to 1
+545293569 : 2 : Ping send time
+545293569 : 2 : Starting ping timeout timer
+545307579 : 1 : Received ping 8 from 2
+545307579 : 1 : Paket delay from 2 to 1 is 14010
+545307579 : 1 : Starting continue timer
+546307579 : 1 : Initiated p2p route discovery from 1 to 3
+549411521 : 1 : Success - p2p route discoverd to from 1 to 3
+549411521 : 1 : Initiated - ping  from 1 to 3
+549428298 : 1 : Ping send time
+549428298 : 1 : Starting ping timeout timer
+549442382 : 3 : Received ping 7 from 1
+549442382 : 3 : Paket delay from 1 to 3 is 14084
+549442382 : 3 : Starting continue timer
+550442382 : 3 : Initiated p2p route discovery from 1 to 2
+610449837 : 1 : Failed - p2p route discovery from 1 to 2
+610449837 : 1 : Starting continue timer
+611449837 : 1 : Initiated p2p route discovery from 2 to 4
+614716686 : 2 : Success - p2p route discoverd to from 2 to 4
+614716686 : 2 : Initiated - ping  from 2 to 4
+614733584 : 2 : Ping send time
+614733584 : 2 : Starting ping timeout timer
+614771312 : 4 : Received ping 9 from 2
+614771312 : 4 : Paket delay from 2 to 4 is 37728
+614771312 : 4 : Starting continue timer
+615771312 : 4 : Initiated p2p route discovery from 2 to 4
+619052688 : 2 : Success - p2p route discoverd to from 2 to 4
+619052688 : 2 : Initiated - ping  from 2 to 4
+619069942 : 2 : Ping send time
+619069942 : 2 : Starting ping timeout timer
+619107950 : 4 : Received ping 10 from 2
+619107950 : 4 : Paket delay from 2 to 4 is 38008
+619107950 : 4 : Starting continue timer
+620107950 : 4 : Initiated p2p route discovery from 3 to 2
+623313379 : 3 : Success - p2p route discoverd to from 3 to 2
+623313379 : 3 : Initiated - ping  from 3 to 2
+623331071 : 3 : Ping send time
+623331071 : 3 : Starting ping timeout timer
+623357002 : 2 : Received ping 6 from 3
+623357002 : 2 : Paket delay from 3 to 2 is 25931
+623357002 : 2 : Starting continue timer
+624357002 : 2 : Initiated p2p route discovery from 1 to 5
+684363900 : 1 : Failed - p2p route discovery from 1 to 5
+684363900 : 1 : Starting continue timer
+685363900 : 1 : Initiated p2p route discovery from 3 to 2
+688532221 : 3 : Success - p2p route discoverd to from 3 to 2
+688532221 : 3 : Initiated - ping  from 3 to 2
+688549377 : 3 : Ping send time
+688549377 : 3 : Starting ping timeout timer
+688575444 : 2 : Received ping 7 from 3
+688575444 : 2 : Paket delay from 3 to 2 is 26067
+688575444 : 2 : Starting continue timer
+689575444 : 2 : Initiated p2p route discovery from 1 to 4
+692769058 : 1 : Success - p2p route discoverd to from 1 to 4
+692769058 : 1 : Initiated - ping  from 1 to 4
+692786140 : 1 : Ping send time
+692786140 : 1 : Starting ping timeout timer
+692812077 : 4 : Received ping 8 from 1
+692812077 : 4 : Paket delay from 1 to 4 is 25937
+692812077 : 4 : Starting continue timer
+693812077 : 4 : Initiated p2p route discovery from 5 to 4
+696922845 : 5 : Success - p2p route discoverd to from 5 to 4
+696922845 : 5 : Initiated - ping  from 5 to 4
+696939429 : 5 : Ping send time
+696939429 : 5 : Starting ping timeout timer
+696953308 : 4 : Received ping 4 from 5
+696953308 : 4 : Paket delay from 5 to 4 is 13879
+696953308 : 4 : Starting continue timer
+697953308 : 4 : Initiated p2p route discovery from 1 to 5
+757965462 : 1 : Failed - p2p route discovery from 1 to 5
+757965462 : 1 : Starting continue timer
+758965462 : 1 : Initiated p2p route discovery from 3 to 2
+762165052 : 3 : Success - p2p route discoverd to from 3 to 2
+762165052 : 3 : Initiated - ping  from 3 to 2
+762182739 : 3 : Ping send time
+762182739 : 3 : Starting ping timeout timer
+762208722 : 2 : Received ping 8 from 3
+762208722 : 2 : Paket delay from 3 to 2 is 25983
+762208722 : 2 : Starting continue timer
+763208722 : 2 : Initiated p2p route discovery from 3 to 5
+766401370 : 3 : Success - p2p route discoverd to from 3 to 5
+766401370 : 3 : Initiated - ping  from 3 to 5
+766418434 : 3 : Ping send time
+766418434 : 3 : Starting ping timeout timer
+766444321 : 5 : Received ping 9 from 3
+766444321 : 5 : Paket delay from 3 to 5 is 25887
+766444321 : 5 : Starting continue timer
+767444321 : 5 : Initiated p2p route discovery from 1 to 4
+770620929 : 1 : Success - p2p route discoverd to from 1 to 4
+770620929 : 1 : Initiated - ping  from 1 to 4
+770638165 : 1 : Ping send time
+770638165 : 1 : Starting ping timeout timer
+770664673 : 4 : Received ping 9 from 1
+770664673 : 4 : Paket delay from 1 to 4 is 26508
+770664673 : 4 : Starting continue timer
+771664673 : 4 : Initiated p2p route discovery from 4 to 3
+831673812 : 4 : Failed - p2p route discovery from 4 to 3
+831673812 : 4 : Starting continue timer
+832673812 : 4 : Initiated p2p route discovery from 3 to 5
+835838692 : 3 : Success - p2p route discoverd to from 3 to 5
+835838692 : 3 : Initiated - ping  from 3 to 5
+835856718 : 3 : Ping send time
+835856718 : 3 : Starting ping timeout timer
+835882791 : 5 : Received ping 10 from 3
+835882791 : 5 : Paket delay from 3 to 5 is 26073
+835882791 : 5 : Starting continue timer
+836882791 : 5 : Initiated p2p route discovery from 3 to 4
+840002780 : 3 : Success - p2p route discoverd to from 3 to 4
+840002780 : 3 : Initiated - ping  from 3 to 4
+840013644 : 3 : Ping send time
+840013644 : 3 : Starting ping timeout timer
+841013644 : 3 : Ping time out from 3 to 4
+842013644 : 3 : Initiated p2p route discovery from 3 to 1
+845136584 : 3 : Success - p2p route discoverd to from 3 to 1
+845136584 : 3 : Initiated - ping  from 3 to 1
+845153800 : 3 : Ping send time
+845153800 : 3 : Starting ping timeout timer
+845167913 : 1 : Received ping 12 from 3
+845167913 : 1 : Paket delay from 3 to 1 is 14113
+845167913 : 1 : Starting continue timer
+846167913 : 1 : Initiated p2p route discovery from 2 to 5
+849990203 : 3 : Success - p2p route discoverd to from 2 to 5
+849990203 : 3 : Initiated - ping  from 2 to 5
+849999626 : 2 : Ping send time
+849999626 : 2 : Starting ping timeout timer
+850999626 : 2 : Ping time out from 2 to 5
+851999626 : 2 : Initiated p2p route discovery from 1 to 3
+859990051 : 3 : Success - p2p route discoverd to from 1 to 3
+859990051 : 3 : Initiated - ping  from 1 to 3
+859999479 : 1 : Ping send time
+859999479 : 1 : Starting ping timeout timer
+860013778 : 3 : Received ping 10 from 1
+860013778 : 3 : Paket delay from 1 to 3 is 14299
+860013778 : 3 : Starting continue timer
+861013778 : 3 : Initiated p2p route discovery from 4 to 3
+906178761 : 2 : Failed - p2p route discovery from 4 to 3
+906178761 : 2 : Starting continue timer
+907178761 : 2 : Initiated p2p route discovery from 3 to 2
+910352480 : 3 : Success - p2p route discoverd to from 3 to 2
+910352480 : 3 : Initiated - ping  from 3 to 2
+910370022 : 3 : Ping send time
+910370022 : 3 : Starting ping timeout timer
+910396269 : 2 : Received ping 13 from 3
+910396269 : 2 : Paket delay from 3 to 2 is 26247
+910396269 : 2 : Starting continue timer
+911396269 : 2 : Initiated p2p route discovery from 4 to 5
+912012382 : 1 : Failed - p2p route discovery from 4 to 5
+912012382 : 1 : Starting continue timer
+913012382 : 1 : Initiated p2p route discovery from 4 to 1
+914492829 : 4 : Success - p2p route discoverd to from 4 to 1
+914492829 : 4 : Initiated - ping  from 4 to 1
+914509708 : 4 : Ping send time
+914509708 : 4 : Starting ping timeout timer
+914536185 : 1 : Received ping 4 from 4
+914536185 : 1 : Paket delay from 4 to 1 is 26477
+914536185 : 1 : Starting continue timer
+915536185 : 1 : Initiated p2p route discovery from 4 to 1
+916193710 : 4 : Success - p2p route discoverd to from 4 to 1
+916193710 : 4 : Initiated - ping  from 4 to 1
+916211433 : 4 : Ping send time
+916211433 : 4 : Starting ping timeout timer
+916237390 : 1 : Received ping 5 from 4
+916237390 : 1 : Paket delay from 4 to 1 is 25957
+916237390 : 1 : Starting continue timer
+917237390 : 1 : Initiated p2p route discovery from 5 to 2
+977243690 : 5 : Failed - p2p route discovery from 5 to 2
+977243690 : 5 : Starting continue timer
+978243690 : 5 : Initiated p2p route discovery from 4 to 3
+981366411 : 4 : Success - p2p route discoverd to from 4 to 3
+981366411 : 4 : Initiated - ping  from 4 to 3
+981376885 : 4 : Ping send time
+981376885 : 4 : Starting ping timeout timer
+982376885 : 4 : Ping time out from 4 to 3
+983376885 : 4 : Initiated p2p route discovery from 1 to 2
+986490334 : 1 : Success - p2p route discoverd to from 1 to 2
+986490334 : 1 : Initiated - ping  from 1 to 2
+986507368 : 1 : Ping send time
+986507368 : 1 : Starting ping timeout timer
+986524257 : 2 : Received ping 11 from 1
+986524257 : 2 : Paket delay from 1 to 2 is 16889
+986524257 : 2 : Starting continue timer
+987524257 : 2 : Initiated p2p route discovery from 3 to 2
+990719724 : 3 : Success - p2p route discoverd to from 3 to 2
+990719724 : 3 : Initiated - ping  from 3 to 2
+990737921 : 3 : Ping send time
+990737921 : 3 : Starting ping timeout timer
+990764148 : 2 : Received ping 14 from 3
+990764148 : 2 : Paket delay from 3 to 2 is 26227
+990764148 : 2 : Starting continue timer
+991353794 : 4 : Success - p2p route discoverd to from 3 to 2
+991353794 : 4 : Initiated - ping  from 3 to 2
+991363162 : 3 : Ping send time
+991363162 : 3 : Starting ping timeout timer
+991389550 : 2 : Received ping 15 from 3
+991389550 : 2 : Paket delay from 3 to 2 is 26388
+991389550 : 2 : Starting continue timer
+991764148 : 2 : Initiated p2p route discovery from 2 to 5
+992389550 : 2 : Initiated p2p route discovery from 5 to 4
+1001353638 : 4 : Success - p2p route discoverd to from 5 to 4
+1001353638 : 4 : Initiated - ping  from 5 to 4
+1001362683 : 5 : Ping send time
+1001362683 : 5 : Starting ping timeout timer
+1001376548 : 4 : Received ping 5 from 5
+1001376548 : 4 : Paket delay from 5 to 4 is 13865
+1001376548 : 4 : Starting continue timer
+1002376548 : 4 : Initiated p2p route discovery from 2 to 4
+1052400402 : 5 : Failed - p2p route discovery from 2 to 4
+1052400402 : 5 : Starting continue timer
+1053400402 : 5 : Initiated p2p route discovery from 1 to 5
+1056669818 : 1 : Success - p2p route discoverd to from 1 to 5
+1056669818 : 1 : Initiated - ping  from 1 to 5
+1056686018 : 1 : Ping send time
+1056686018 : 1 : Starting ping timeout timer
+1057686018 : 1 : Ping time out from 1 to 5
+1058686018 : 1 : Initiated p2p route discovery from 4 to 5
+1061805785 : 4 : Success - p2p route discoverd to from 4 to 5
+1061805785 : 4 : Initiated - ping  from 4 to 5
+1061822364 : 4 : Ping send time
+1061822364 : 4 : Starting ping timeout timer
+1061836189 : 5 : Received ping 7 from 4
+1061836189 : 5 : Paket delay from 4 to 5 is 13825
+1061836189 : 5 : Starting continue timer
+1062389803 : 2 : Failed - p2p route discovery from 4 to 5
+1062389803 : 2 : Starting continue timer
+1062836189 : 5 : Initiated p2p route discovery from 2 to 3
+1063389803 : 2 : Initiated p2p route discovery from 4 to 2
+1066015725 : 2 : Success - p2p route discoverd to from 4 to 2
+1066015725 : 2 : Initiated - ping  from 4 to 2
+1066024701 : 4 : Ping send time
+1066024701 : 4 : Starting ping timeout timer
+1066647947 : 1 : Success - p2p route discoverd to from 4 to 2
+1066647947 : 1 : Initiated - ping  from 4 to 2
+1066656989 : 4 : Ping send time
+1066656989 : 4 : Starting ping timeout timer
+1066694942 : 2 : Received ping 9 from 4
+1066694942 : 2 : Paket delay from 4 to 2 is 37953
+1066694942 : 2 : Starting continue timer
+1067694942 : 2 : Initiated p2p route discovery from 1 to 5
+1075998888 : 2 : Success - p2p route discoverd to from 1 to 5
+1075998888 : 2 : Initiated - ping  from 1 to 5
+1076008295 : 1 : Ping send time
+1076008295 : 1 : Starting ping timeout timer
+1076647868 : 1 : Success - p2p route discoverd to from 1 to 5
+1076647868 : 1 : Initiated - ping  from 1 to 5
+1076658694 : 1 : Ping send time
+1076658694 : 1 : Starting ping timeout timer
+1077008295 : 1 : Ping time out from 1 to 5
+1078008295 : 1 : Initiated p2p route discovery from 3 to 4
+1123400374 : 4 : Failed - p2p route discovery from 3 to 4
+1123400374 : 4 : Starting continue timer
+1124400374 : 4 : Initiated p2p route discovery from 2 to 5
+1127742827 : 2 : Success - p2p route discoverd to from 2 to 5
+1127742827 : 2 : Initiated - ping  from 2 to 5
+1127753655 : 2 : Ping send time
+1127753655 : 2 : Starting ping timeout timer
+1128753655 : 2 : Ping time out from 2 to 5
+1129753655 : 2 : Initiated p2p route discovery from 3 to 4
+1132853387 : 3 : Success - p2p route discoverd to from 3 to 4
+1132853387 : 3 : Initiated - ping  from 3 to 4
+1132864790 : 3 : Ping send time
+1132864790 : 3 : Starting ping timeout timer
+1133864790 : 3 : Ping time out from 3 to 4
+1134864790 : 3 : Initiated p2p route discovery from 5 to 2
+1137715406 : 2 : Success - p2p route discoverd to from 5 to 2
+1137715406 : 2 : Initiated - ping  from 5 to 2
+1137724418 : 5 : Ping send time
+1137724418 : 5 : Starting ping timeout timer
+1138185890 : 5 : Success - p2p route discoverd to from 5 to 2
+1138185890 : 5 : Initiated - ping  from 5 to 2
+1138196868 : 5 : Ping send time
+1138196868 : 5 : Starting ping timeout timer
+1138724418 : 5 : Ping time out from 5 to 2
+1139724418 : 5 : Initiated p2p route discovery from 4 to 2
+1142841767 : 3 : Success - p2p route discoverd to from 4 to 2
+1142841767 : 3 : Initiated - ping  from 4 to 2
+1142851133 : 4 : Ping send time
+1142851133 : 4 : Starting ping timeout timer
+1143851133 : 4 : Ping time out from 4 to 2
+1144851133 : 4 : Initiated p2p route discovery from 2 to 1
+1148158728 : 5 : Success - p2p route discoverd to from 2 to 1
+1148158728 : 5 : Initiated - ping  from 2 to 1
+1148168094 : 2 : Ping send time
+1148168094 : 2 : Starting ping timeout timer
+1148182152 : 1 : Received ping 13 from 2
+1148182152 : 1 : Paket delay from 2 to 1 is 14058
+1148182152 : 1 : Starting continue timer
+1149182152 : 1 : Initiated p2p route discovery from 1 to 4
+1152841642 : 3 : Success - p2p route discoverd to from 1 to 4
+1152841642 : 3 : Initiated - ping  from 1 to 4
+1152851069 : 1 : Ping send time
+1152851069 : 1 : Starting ping timeout timer
+1152877393 : 4 : Received ping 15 from 1
+1152877393 : 4 : Paket delay from 1 to 4 is 26324
+1152877393 : 4 : Starting continue timer
+1153877393 : 4 : Initiated p2p route discovery from 3 to 5
+1158158664 : 5 : Success - p2p route discoverd to from 3 to 5
+1158158664 : 5 : Initiated - ping  from 3 to 5
+1158168064 : 3 : Ping send time
+1158168064 : 3 : Starting ping timeout timer
+1158194277 : 5 : Received ping 17 from 3
+1158194277 : 5 : Paket delay from 3 to 5 is 26213
+1158194277 : 5 : Starting continue timer
+1159194277 : 5 : Initiated p2p route discovery from 1 to 5
+1162482293 : 1 : Success - p2p route discoverd to from 1 to 5
+1162482293 : 1 : Initiated - ping  from 1 to 5
+1162493086 : 1 : Ping send time
+1162493086 : 1 : Starting ping timeout timer
+1163493086 : 1 : Ping time out from 1 to 5
+1164493086 : 1 : Initiated p2p route discovery from 5 to 4
+1167594740 : 5 : Success - p2p route discoverd to from 5 to 4
+1167594740 : 5 : Initiated - ping  from 5 to 4
+1167611322 : 5 : Ping send time
+1167611322 : 5 : Starting ping timeout timer
+1167625218 : 4 : Received ping 8 from 5
+1167625218 : 4 : Paket delay from 5 to 4 is 13896
+1167625218 : 4 : Starting continue timer
+1168625218 : 4 : Initiated p2p route discovery from 4 to 1
+1171810836 : 4 : Success - p2p route discoverd to from 4 to 1
+1171810836 : 4 : Initiated - ping  from 4 to 1
+1171828371 : 4 : Ping send time
+1171828371 : 4 : Starting ping timeout timer
+1171854547 : 1 : Received ping 11 from 4
+1171854547 : 1 : Paket delay from 4 to 1 is 26176
+1171854547 : 1 : Starting continue timer
+1172460447 : 1 : Success - p2p route discoverd to from 4 to 1
+1172460447 : 1 : Initiated - ping  from 4 to 1
+1172469881 : 4 : Ping send time
+1172469881 : 4 : Starting ping timeout timer
+1172496029 : 1 : Received ping 12 from 4
+1172496029 : 1 : Paket delay from 4 to 1 is 26148
+1172496029 : 1 : Starting continue timer
+1172854547 : 1 : Initiated p2p route discovery from 4 to 1
+1173496029 : 1 : Initiated p2p route discovery from 1 to 4
+1182460366 : 1 : Success - p2p route discoverd to from 1 to 4
+1182460366 : 1 : Initiated - ping  from 1 to 4
+1182471192 : 1 : Ping send time
+1182471192 : 1 : Starting ping timeout timer
+1182497672 : 4 : Received ping 17 from 1
+1182497672 : 4 : Paket delay from 1 to 4 is 26480
+1182497672 : 4 : Starting continue timer
+1183497672 : 4 : Initiated p2p route discovery from 4 to 5
+TEST TIMEOUT
+TEST FAILED
+Packet deleivery ratio : 0.8059701492537313
+Average packet delay : 22984.59259259259
+Test ended at simulation time: 1200000000

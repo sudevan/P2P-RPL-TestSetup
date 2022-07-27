@@ -1,0 +1,29 @@
+[12:39:08 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[12:39:08 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[12:39:08 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[12:39:08 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[12:39:08 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+[12:39:08 - main] [SkyMoteType.java:173] [FATAL] - >> 
+[12:39:08 - main] [SkyMoteType.java:173] [FATAL] - >> > make p2p-sim.sky TARGET=sky 
+[12:39:08 - main] [SkyMoteType.java:173] [FATAL] - >> Process returned error code 130
+[12:39:08 - main] [SkyMoteType.java:176] [FATAL] - Compilation error: Bad return value
+[12:39:08 - main] [GUI.java:1211] [FATAL] - Exception when loading simulation: 
+se.sics.cooja.GUI$SimulationCreationException: Mote type creation error: Mote type creation failed: Bad return value
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3252)
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3164)
+	at se.sics.cooja.GUI.quickStartSimulationConfig(GUI.java:1204)
+	at se.sics.cooja.GUI.main(GUI.java:3051)
+Caused by: se.sics.cooja.MoteType$MoteTypeCreationException: Mote type creation failed: Bad return value
+	at se.sics.cooja.mspmote.SkyMoteType.configureAndInit(SkyMoteType.java:162)
+	at se.sics.cooja.mspmote.MspMoteType.setConfigXML(MspMoteType.java:355)
+	at se.sics.cooja.Simulation.setConfigXML(Simulation.java:638)
+	at se.sics.cooja.GUI.loadSimulationConfig(GUI.java:3234)
+	... 3 more
+Caused by: se.sics.cooja.MoteType$MoteTypeCreationException: Bad return value
+	at se.sics.cooja.dialogs.CompileContiki.compile(CompileContiki.java:260)
+	at se.sics.cooja.dialogs.CompileContiki.compile(CompileContiki.java:91)
+	at se.sics.cooja.mspmote.SkyMoteType.configureAndInit(SkyMoteType.java:151)
+	... 6 more
+Caused by: se.sics.cooja.MoteType$MoteTypeCreationException: 
+	at se.sics.cooja.dialogs.CompileContiki$3.run(CompileContiki.java:209)
+	at java.lang.Thread.run(Thread.java:619)

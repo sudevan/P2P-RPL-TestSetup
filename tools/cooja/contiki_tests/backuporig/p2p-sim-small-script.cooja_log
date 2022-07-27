@@ -1,0 +1,46 @@
+[08:03:22 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[08:03:22 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[08:03:22 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[08:03:22 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[08:03:22 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+[08:03:23 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:03:23 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:03:23 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:03:23 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:03:23 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.SimControl
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Visualizer
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:03:23 - main] [LogScriptEngine.java:263] [INFO] - No timeout defined, using default (us): 1200000000
+[08:03:23 - main] [ScriptRunner.java:333] [INFO] - Test script activated
+[08:03:23 - Thread-3] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1655086703861
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.RadioLogger
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.LogListener
+[08:03:23 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.TimeLine
+[08:03:27 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 5%
+[08:03:29 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 10%
+[08:03:31 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 15%
+[08:03:33 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 20%
+[08:03:34 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 25%
+[08:03:37 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 30%
+[08:03:39 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 35%
+[08:03:41 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 40%
+[08:03:42 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 45%
+[08:03:44 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 50%
+[08:03:46 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 55%
+[08:03:48 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 60%
+[08:03:50 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 65%
+[08:03:52 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 70%
+[08:03:54 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 75%
+[08:03:56 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 80%
+[08:03:58 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 85%
+[08:04:00 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 90%
+[08:04:02 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 95%
+[08:04:05 - Thread-3] [LogScriptEngine.java:449] [INFO] - Timeout event @ 1200000000
+[08:04:05 - Thread-2] [LogScriptEngine.java:326] [INFO] - Test script finished
+[08:04:05 - Thread-3] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1655086745227	Duration: 41366 ms	Simulated time 1200000 ms	Ratio 29.00933133491273
+[08:04:05 - AWT-EventQueue-0] [ScriptRunner.java:372] [INFO] - Test script deactivated

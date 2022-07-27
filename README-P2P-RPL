@@ -1,0 +1,68 @@
+		       RPL Point to Point (P2P) extension
+	     Reactive Discovery of Point-to-Point Routes in Contiki
+
+              Author: Matthias Philipp <matthias-philipp@gmx.de>
+         Contributor: Emmanuel Baccelli <emmanuel.baccelli@inria.fr>
+
+			       QUICK START GUIDE
+			       =================
+
+
+Prerequisites:
+--------------
+
+  * msp430-gcc: to compile the firmware
+  * recent java JDK: to compile/run the Cooja simulator
+
+The easiest way to get a suitable environment is Instant Contiki, a virtual
+machine image that comes pre-installed with all necessary tools. It is available
+at http://sourceforge.net/projects/contiki/files/Instant%20Contiki/
+Make sure to select the latest version.
+
+
+Example application:
+--------------------
+
+This distribution contains an example application that demonstrates the
+operation of P2P-RPL. It can be launched as follows:
+
+Compile the firmware:
+  cd examples/ipv6/rpl-p2p/
+  make
+
+Compile and run the Cooja simulator:
+  cd tools/cooja/
+  ant run
+
+In Cooja click File > Open Simulation and select
+examples/ipv6/rpl-p2p/p2p-sim-medium.csc
+
+Click Start to run the simulation.
+
+Double-clicking a node selects a random target node and measures the route
+along the global DAG. Afterwards a P2P route discovery is initiated. You should
+see the formation of the DAG, the discovered route, and the expiration of the
+DAG. Finally the P2P route is measured. Subsequent double-clicks on the same
+node trigger the transmission of UDP data packets along the route.
+
+Use the speed slider to adjust the simulation speed.
+
+An explanation of what is going on during the simulation is given in a video
+available at http://contiki-p2p-rpl.gforge.inria.fr/
+
+To save memory, only two temporary DAGs (i.e. route discoveries) may be active
+simultaneously (can be adjusted by setting RPL_MAX_DAG_ENTRIES). If this number
+is exceeded, a new discovery can only be started after a previous one is expired.
+
+
+Source Code:
+------------
+
+The source code can be found in core/net/rpl/
+
+The main P2P mechanisms are implemented in rpl-p2p.c. Parameters can be adjusted
+in rpl-p2p.h. Generation and parsing of control messages is done in rpl-icmp6.c
+and DIO processing takes place in rpl-dag.c.
+
+The p2p-rpl branch has been regularly merged with upstream to benefit from
+updates in the Contiki core. The last merge was on Oct 4 2011.

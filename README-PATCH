@@ -1,0 +1,77 @@
+                       RPL Point to Point (P2P) extension
+             Reactive Discovery of Point-to-Point Routes in Contiki
+
+              Author: Matthias Philipp <matthias-philipp@gmx.de>
+         Contributor: Emmanuel Baccelli <emmanuel.baccelli@inria.fr>
+
+                                PATCHING GUIDE
+                                ==============
+
+
+Prerequisites:
+--------------
+
+  * msp430-gcc: to compile the firmware
+  * recent java JDK: to compile/run the Cooja simulator
+
+The easiest way to get a suitable environment is Instant Contiki, a virtual
+machine image that comes pre-installed with all necessary tools. It is available
+at http://sourceforge.net/projects/contiki/files/Instant%20Contiki/
+Make sure to select the latest version.
+
+The patch contains an implementation of the P2P extension for RPL.  It is based
+on commit a2073db715f5a1773e4416b3f78a7b6ded9dc075 (Tue Oct 4 10:29:40 2011
++0200) but should also apply to the official release of Contiki 2.5.
+
+
+Patching the Contiki distribution:
+----------------------------------
+
+# clone the contiki git repository (already done in Instant Contiki)
+git clone git://contiki.git.sourceforge.net/gitroot/contiki/contiki
+cd contiki
+
+# create a branch for P2P-RPL
+git checkout -b p2p-rpl a2073db715
+# if you'd prefer to base the p2p-rpl branch on the 2.5 release use: 
+# git checkout -b p2p-rpl 2.5-release
+
+# get information on what the patch changes
+git apply --stat p2p-rpl.patch
+
+# check whether there are any conflicts
+git apply --check p2p-rpl.patch
+
+# actually apply the patch
+git apply p2p-rpl.patch
+
+
+Run P2P-RPL:
+------------
+
+Please have a look at README-P2P-RPL
+
+
+Creating a Patch
+----------------
+
+# Create base branch starting at the commit (of the master branch) before the
+# last merge
+git checkout -b p2p-base a2073db715
+# This can be omitted if the p2p-rpl branch has just been merged with the head
+# of the master branch. In this case simply use 'master' instead of 'p2p-base'
+# in the following commands.
+
+git checkout p2p-rpl
+# check which files have been changed/added
+git diff --name-status p2p-base..p2p-rpl
+
+# Create a single patch with all the changes squashed together:
+git diff p2p-base > p2p-rpl.patch
+# This loses the history of individual commits, which is quite handy for a
+# release. To create a patch that keeps the history of all the individual
+# commits use:
+# git format-patch p2p-base --stdout > p2p-rpl.patch
+
+# Manually check the patch and remove unwanted content (e.g. wsn430 platform)
+vi p2p-rpl.patch

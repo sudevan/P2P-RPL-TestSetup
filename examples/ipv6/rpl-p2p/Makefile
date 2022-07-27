@@ -1,0 +1,20 @@
+CONTIKI=../../..
+TARGET = sky
+
+WITH_UIP6=1
+UIP_CONF_IPV6=1
+CFLAGS += -DSENSLAB
+WITH_RPL_P2P=1
+SMALL=1
+APPS = powertrace collect-view
+ifdef WITH_RPL_P2P
+CFLAGS += -DWITH_RPL_P2P
+CFLAGS += -DWITH_RPL_P2P_MEASUREMENT
+CFLAGS += -DUIP_CONF_DS6_ROUTE_NBU=8
+endif
+
+CFLAGS += -DRPL_CONF_MOP=2
+
+all: p2p-sim
+
+include $(CONTIKI)/Makefile.include

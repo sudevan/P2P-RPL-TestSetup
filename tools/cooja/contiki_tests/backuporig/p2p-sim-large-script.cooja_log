@@ -1,0 +1,56 @@
+[08:18:39 - main] [GUI.java:1189] [INFO] - > Starting COOJA
+[08:18:39 - main] [GUI.java:2693] [INFO] - External tools default settings: /external_tools_linux.config
+[08:18:39 - main] [GUI.java:2723] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[08:18:39 - main] [Simulation.java:409] [INFO] - Simulation random seed: 123456
+[08:18:39 - main] [CompileContiki.java:131] [INFO] - > make p2p-sim.sky TARGET=sky 
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:40 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [MspMote.java:253] [INFO] - Loading firmware from: /home/user/p2p-contiki-2.5-release/examples/ipv6/rpl-p2p/p2p-sim.sky
+[08:18:41 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.SimControl
+[08:18:41 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.Visualizer
+[08:18:41 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.LogListener
+[08:18:41 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:18:41 - main] [GUI.java:1632] [INFO] - Visualized plugin was not started: class se.sics.cooja.plugins.MoteInterfaceViewer
+[08:18:41 - main] [LogScriptEngine.java:263] [INFO] - No timeout defined, using default (us): 1200000000
+[08:18:41 - main] [ScriptRunner.java:333] [INFO] - Test script activated
+[08:18:41 - Thread-3] [Simulation.java:243] [INFO] - Simulation main loop started, system time: 1655087621535
+[08:18:55 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 5%
+[08:19:05 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 10%
+[08:19:14 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 15%
+[08:19:23 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 20%
+[08:19:30 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 25%
+[08:19:38 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 30%
+[08:19:45 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 35%
+[08:19:54 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 40%
+[08:20:04 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 45%
+[08:20:13 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 50%
+[08:20:22 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 55%
+[08:20:29 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 60%
+[08:20:39 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 65%
+[08:20:48 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 70%
+[08:20:57 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 75%
+[08:21:06 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 80%
+[08:21:16 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 85%
+[08:21:25 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 90%
+[08:21:32 - Thread-3] [LogScriptEngine.java:276] [INFO] - Test script at 95%
+[08:21:42 - Thread-3] [LogScriptEngine.java:449] [INFO] - Timeout event @ 1200000000
+[08:21:42 - Thread-2] [LogScriptEngine.java:326] [INFO] - Test script finished
+[08:21:42 - Thread-3] [Simulation.java:297] [INFO] - Simulation main loop stopped, system time: 1655087802346	Duration: 180811 ms	Simulated time 1200000 ms	Ratio 6.6367643561508975
+[08:21:42 - AWT-EventQueue-0] [ScriptRunner.java:372] [INFO] - Test script deactivated

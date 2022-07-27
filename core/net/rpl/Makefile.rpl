@@ -1,0 +1,7 @@
+ifdef WITH_RPL_P2P
+CONTIKI_SOURCEFILES += rpl.c rpl-dag.c rpl-icmp6.c rpl-timers.c \
+	rpl-of-etx.c rpl-of0.c rpl-p2p.c
+else
+CONTIKI_SOURCEFILES += rpl.c rpl-dag.c rpl-icmp6.c rpl-timers.c \
+	rpl-of-etx.c rpl-of0.c
+endif
